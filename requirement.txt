@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_core
+st_chat_message
+langchain_community
+
+
+
