@@ -16,8 +16,8 @@ streamlit run llama_chatbot.py --server.enableXsrfProtection false
 python talk_2_pdf.py
 
 # intertact functions
+python embedding.py
+python pdf_loader.py
 python retrieval_text.py
 python retrieval_document.py
-python pdf_loader.py
-python embedding.py
 ```
